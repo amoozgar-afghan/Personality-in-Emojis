@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+Express Your Personality in Emojis App
 
 Quick start:
 
