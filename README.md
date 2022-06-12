@@ -1,5 +1,7 @@
 Express Your Personality in Emojis App
 
+You can check the App demo in [here](https://amoozgar-afghan.github.io/Personality-in-Emojis/).
+
 Quick start:
 
 ```
